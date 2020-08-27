@@ -1,0 +1,39 @@
+body{
+	background-color:yellow;
+}
+h1{
+	font-family:arial;
+	font-size:22px;
+	text-align: center;
+}
+h2{
+	background-color:black;
+	border-radius:10px;
+	color:white;
+	text-align: center;
+}
+p.one{
+	background-color:red;
+	border-radius:8px;
+	color:white;
+	text-align: center;
+}
+
+p.two{
+	background-color:green;
+	border-radius:8px;
+	color:black;
+	text-align: center;
+	border: 2px solid black;
+}
+
+p.three{
+	background-color:red;
+	border-radius:8px;
+	color:white;
+	text-align: right;
+}
+
+a.linje{
+	text-decoration: none;
+}
