@@ -1,0 +1,49 @@
+
+table, th, td {
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+
+tr:nth-child(n+3){
+	background-color: green;
+	color: orange;
+}
+tr:nth-child(even){
+	background-color: orange;
+	color: green;
+}
+.right{
+	text-align: right;
+}
+.left{
+	text-align: left;
+}
+.center{
+	text-align: center;
+}
+td{
+	width: 160px;
+	height: 30px;
+}
+
+.red{
+	background-color: red;
+}
+.blue{
+	background-color: blue;
+}
+.yellow{
+	background-color: yellow;
+}
+.black{
+	background-color: black;
+}
+.lightgreen{
+	background-color: green;
+}
+.table{
+	width: 600px;
+	height: 300px;
+}
+
+
